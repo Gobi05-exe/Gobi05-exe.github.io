@@ -114,7 +114,7 @@ export const Home = () => {
                     </div>
                   </Link>
                   <a
-                    href="https://drive.google.com/file/d/1DhcuJOMRIYeqruwIhGhyh4B3OmQaz0-w/view?usp=sharing"
+                    href="https://drive.google.com/file/d/1k3hQYSTmyWCPKtTJ8NGWul51ncfA5I-T/view?usp=sharing"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text_2"
